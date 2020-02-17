@@ -1,0 +1,2 @@
+# hibernate-commandline-tools
+Hibernate Command line tools will makes the ease of creating or dropping table from entity classes. We have to have only hibernate.cfg.xml file and mapping file after that it will accurately creates the table with the help of configuration files that we provided. So there are 3 Java classes provided i.e. SchemaUpdate, SchemaExport, SchemaValidator. While executing it over command line we have to provide all .jar file to classpath by setting it.
